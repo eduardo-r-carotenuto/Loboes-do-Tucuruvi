@@ -1,5 +1,9 @@
+Eduardo Dias Carotenuto 3064556
+Matheus Diório 2743334
+Daniel Gomes Santiago 2681939
+Fauzer Ribeiro da Silva 2768291
+Everton Bresser 2775959
 # Loboes-do-Tucuruvi
-
 Sistema de Machine Learning desenvolvido para análise e previsão do risco de inadimplência em operações de crédito.
 
 O projeto utiliza algoritmos de aprendizado de máquina supervisionado para identificar clientes com maior probabilidade de inadimplência. Também são comparados diferentes modelos de classificação, levando em consideração não apenas o desempenho estatístico, mas também o impacto financeiro dos erros cometidos pelo modelo.
