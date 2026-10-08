@@ -1,8 +1,8 @@
-Eduardo Dias Carotenuto 3064556
-Matheus Diório 2743334
-Daniel Gomes Santiago 2681939
-Fauzer Ribeiro da Silva 2768291
-Everton Bresser 2775959
+Eduardo Dias Carotenuto 3064556/
+Matheus Diório 2743334/
+Daniel Gomes Santiago 2681939/
+Fauzer Ribeiro da Silva 2768291/
+Everton Bresser 2775959/
 # Loboes-do-Tucuruvi
 Sistema de Machine Learning desenvolvido para análise e previsão do risco de inadimplência em operações de crédito.
 
